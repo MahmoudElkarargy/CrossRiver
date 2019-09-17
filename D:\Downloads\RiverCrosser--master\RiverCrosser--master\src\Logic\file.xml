@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Data xmlns="alyelshwahy@yahoo.com">
+  <user1 STORYCASE="2">
+    <ListRight>90.0</ListRight>
+    <ListRight>80.0</ListRight>
+    <ListRight>60.0</ListRight>
+    <ListLeft>20.0</ListLeft>
+    <ListBoat>40.0</ListBoat>
+    <Scores>1</Scores>
+    <ISLEFT>true</ISLEFT>
+  </user1>
+</Data>
